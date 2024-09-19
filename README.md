@@ -1,4 +1,6 @@
 # dino_game
 
-## run game:
+运行游戏
+```
 python ai_game.py
+```
